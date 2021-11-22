@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986501508449",
+    "project_id": "fir-pushnotification-ca97d",
+    "storage_bucket": "fir-pushnotification-ca97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986501508449:android:ac10077e25fe742acb2920",
+        "android_client_info": {
+          "package_name": "com.tejas.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986501508449-q7emu56adeaa2r01rbfrs72pa400206q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkbZGuBzRmNfrqt2DaOm0o5oeFmaftvcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986501508449-q7emu56adeaa2r01rbfrs72pa400206q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
